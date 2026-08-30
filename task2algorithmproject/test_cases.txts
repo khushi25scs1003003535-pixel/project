@@ -1,0 +1,64 @@
+Algorithm 1: Bubble Sort
+
+Test Case 1
+Input:
+5
+5 2 8 1 9
+
+Output:
+Sorted Array: 1 2 5 8 9
+
+
+
+Test Case 2
+Input:
+7
+38 27 43 3 9 82 10
+
+Output:
+Sorted Array: 3 9 10 27 38 43 82
+
+
+Algorithm 2: Binary Search
+
+Test Case 1
+Input:
+Size: 5
+Array: 10 20 30 40 50
+Target: 30
+
+Output:
+Element found at index 2
+
+
+
+Test Case 2
+Input:
+Size: 5
+Array: 10 20 30 40 50
+Target: 60
+
+Output:
+Element not found in the array.
+
+
+
+Algorithm 3: Coin Change (Greedy)
+
+Test Case 1
+Input:
+Amount: 28
+
+Output:
+Coins Used:
+10 10 5 2 1
+
+
+
+Test Case 2
+Input:
+Amount: 17
+
+Output:
+Coins Used:
+10 5 2
